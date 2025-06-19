@@ -29,10 +29,10 @@
 
 
 MySecureDiary/
-│
-├── sample.txt         # Stores the original notes
-├── backup.txt         # Stores backup of notes
-└── mysecurediary.py   # Main Python script
+
+1. sample.txt         # Stores the original notes
+2. backup.txt         # Stores backup of notes
+3. mysecurediary.py   # Main Python script
 
 
 ---
